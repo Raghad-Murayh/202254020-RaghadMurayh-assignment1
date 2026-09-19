@@ -4,7 +4,7 @@
 
 This project is a personal portfolio website created for SWE 363 Web Engineering at KFUPM.
 
-The website introduces me and showcases some of my previous projects. It also includes a contact form and a responsive design that works on different screen sizes.
+The website introduces two of my previous projects. It also includes a contact form and a responsive design that works on different screen sizes.
 
 ## Features
 
@@ -14,6 +14,7 @@ The website introduces me and showcases some of my previous projects. It also in
 - Light and dark mode
 - Responsive design for desktop and mobile devices
 - Navigation links for moving between sections
+- Smooth scrolling between sections
 
 ## Technologies Used
 
